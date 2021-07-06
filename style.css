@@ -1,0 +1,28 @@
+body{
+font: 400;
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+.blue{
+    color: blue;
+}
+.half-width{
+    width: 50%;
+    padding-left: 4%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 40px;
+    border-radius: 7px;
+}
+section{
+    display: flex;
+}
+.half-width img{
+    width: 80%;
+}
