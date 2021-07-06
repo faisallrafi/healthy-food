@@ -26,3 +26,8 @@ section{
 .half-width img{
     width: 80%;
 }
+.about-me{
+    background-image: url(food-network-main/images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
